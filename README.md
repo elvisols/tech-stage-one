@@ -44,7 +44,7 @@ Each user record has the following schema:
     
  }
  ```
- This function would retrieve the names of the most active authors according to a set threshold.
+ This function would retrieve the names of the most active authors(using submission_count as the criteria) according to a set threshold.
  
  # function two
  The author with the highest comment count.
