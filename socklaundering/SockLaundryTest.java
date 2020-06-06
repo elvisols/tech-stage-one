@@ -1,7 +1,6 @@
-package test;
+package socklaundering;
 
 import org.junit.jupiter.api.*;
-import socklaundry.SockLaundry;
 
 public class SockLaundryTest {
 
